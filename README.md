@@ -21,8 +21,8 @@ A Django REST API for managing products with JWT (JSON Web Token) authentication
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/product-management-api.git
-   cd product-management-api
+   git clone https://github.com/benzine12/Django_simple_login_register
+   cd Django_simple_login_register
    ```
 
 2. **Install dependencies**
@@ -50,7 +50,7 @@ The API will be available at `http://127.0.0.1:8000/`
 ## Project Structure 📁
 
 ```
-product-management-api/
+Django_simple_login_register/
 ├── myapp/
 │   ├── migrations/
 │   ├── __init__.py
